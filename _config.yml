@@ -1,0 +1,14 @@
+layout_spectrum: 0.7650942383334041
+typography_spectrum: 0.8327935242559761
+color:
+  brandStrength: 0.21460696309804916
+  lightness: 0.46006992389447987
+  saturation: 0.08055954379960895
+  rhythmicContrast: 0.4637715599965304
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: extended machinery
